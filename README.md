@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on **Malicious Content Detection (Dissertation)**  
-- 🧠 Focused on **Machine Learning, Cybersecurity & AI Research**  
+- 🧠 Focused on **Machine Learning, Deeo Learning & AI Research**  
 - 🌱 Learning **PyTorch, TensorFlow, Deep Learning**  
 - 🎯 Goal: **PhD in Computer Science (AI & Security)**  
 - 💼 Background in **Artificial Intelligence + Machine Learning + Project Management**  
